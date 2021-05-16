@@ -1,4 +1,8 @@
 this is my sample file2
 more more changes
+<<<<<<< Updated upstream
 dkjbdvjkfsdj
 
+=======
+dkjbf
+>>>>>>> Stashed changes
